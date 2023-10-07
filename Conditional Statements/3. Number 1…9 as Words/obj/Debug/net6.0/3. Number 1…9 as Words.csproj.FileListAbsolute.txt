@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\bin\Debug\net6.0\3. Number 1…9 as Words.exe
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\bin\Debug\net6.0\3. Number 1…9 as Words.deps.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\bin\Debug\net6.0\3. Number 1…9 as Words.runtimeconfig.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\bin\Debug\net6.0\3. Number 1…9 as Words.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\bin\Debug\net6.0\3. Number 1…9 as Words.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.AssemblyInfo.cs
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.sourcelink.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\obj\Debug\net6.0\refint\3. Number 1…9 as Words.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.genruntimeconfig.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\1. Freezing Weather\3. Number 1…9 as Words\obj\Debug\net6.0\ref\3. Number 1…9 as Words.dll
