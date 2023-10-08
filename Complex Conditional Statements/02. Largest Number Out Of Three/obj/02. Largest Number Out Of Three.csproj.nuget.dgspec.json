@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\02. Largest Number Out Of Three\\02. Largest Number Out Of Three.csproj": {}
+    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\02. Largest Number Out Of Three\\02. Largest Number Out Of Three.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\02. Largest Number Out Of Three\\02. Largest Number Out Of Three.csproj": {
+    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\02. Largest Number Out Of Three\\02. Largest Number Out Of Three.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\02. Largest Number Out Of Three\\02. Largest Number Out Of Three.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\02. Largest Number Out Of Three\\02. Largest Number Out Of Three.csproj",
         "projectName": "02. Largest Number Out Of Three",
-        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\02. Largest Number Out Of Three\\02. Largest Number Out Of Three.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\02. Largest Number Out Of Three\\02. Largest Number Out Of Three.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\02. Largest Number Out Of Three\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\02. Largest Number Out Of Three\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

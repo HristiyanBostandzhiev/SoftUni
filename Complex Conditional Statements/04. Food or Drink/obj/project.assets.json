@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\04. Food or Drink\\04. Food or Drink.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\04. Food or Drink\\04. Food or Drink.csproj",
       "projectName": "04. Food or Drink",
-      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\04. Food or Drink\\04. Food or Drink.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\04. Food or Drink\\04. Food or Drink.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\04. Food or Drink\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\04. Food or Drink\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\08. Sorted Numbers\\08. Sorted Numbers.csproj": {}
+    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\08. Sorted Numbers\\08. Sorted Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\08. Sorted Numbers\\08. Sorted Numbers.csproj": {
+    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\08. Sorted Numbers\\08. Sorted Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\08. Sorted Numbers\\08. Sorted Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\08. Sorted Numbers\\08. Sorted Numbers.csproj",
         "projectName": "08. Sorted Numbers",
-        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\08. Sorted Numbers\\08. Sorted Numbers.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\08. Sorted Numbers\\08. Sorted Numbers.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\08. Sorted Numbers\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\08. Sorted Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

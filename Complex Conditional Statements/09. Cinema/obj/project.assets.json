@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\09. Cinema\\09. Cinema.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\09. Cinema\\09. Cinema.csproj",
       "projectName": "09. Cinema",
-      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\09. Cinema\\09. Cinema.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\09. Cinema\\09. Cinema.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\09. Cinema\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\09. Cinema\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

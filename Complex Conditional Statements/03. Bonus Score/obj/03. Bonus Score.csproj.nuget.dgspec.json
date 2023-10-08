@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\03. Bonus Score\\03. Bonus Score.csproj": {}
+    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\03. Bonus Score\\03. Bonus Score.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\03. Bonus Score\\03. Bonus Score.csproj": {
+    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\03. Bonus Score\\03. Bonus Score.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\03. Bonus Score\\03. Bonus Score.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\03. Bonus Score\\03. Bonus Score.csproj",
         "projectName": "03. Bonus Score",
-        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\03. Bonus Score\\03. Bonus Score.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\03. Bonus Score\\03. Bonus Score.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\03. Bonus Score\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\03. Bonus Score\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

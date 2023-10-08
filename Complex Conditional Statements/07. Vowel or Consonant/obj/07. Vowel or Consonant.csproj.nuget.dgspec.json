@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\07. Vowel or Consonant\\07. Vowel or Consonant.csproj": {}
+    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\07. Vowel or Consonant\\07. Vowel or Consonant.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\07. Vowel or Consonant\\07. Vowel or Consonant.csproj": {
+    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\07. Vowel or Consonant\\07. Vowel or Consonant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\07. Vowel or Consonant\\07. Vowel or Consonant.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\07. Vowel or Consonant\\07. Vowel or Consonant.csproj",
         "projectName": "07. Vowel or Consonant",
-        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\07. Vowel or Consonant\\07. Vowel or Consonant.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\07. Vowel or Consonant\\07. Vowel or Consonant.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Programming Fundamentals and Unit Testing - september 2023 Homeworks\\Complex Conditional Statements - Lab\\07. Vowel or Consonant\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\Complex Conditional Statements\\07. Vowel or Consonant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

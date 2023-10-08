@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.exe
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.deps.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.runtimeconfig.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.AssemblyInfo.cs
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.sourcelink.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\obj\Debug\net6.0\refint\01. Numbers in Range.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.genruntimeconfig.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\For Loop\01. Numbers in Range\obj\Debug\net6.0\ref\01. Numbers in Range.dll
