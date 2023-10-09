@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.exe
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.deps.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.runtimeconfig.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.AssemblyInfo.cs
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.sourcelink.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\obj\Debug\net6.0\refint\02. Even Powers of 2.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.genruntimeconfig.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\02. Even Powers of 2\obj\Debug\net6.0\ref\02. Even Powers of 2.dll

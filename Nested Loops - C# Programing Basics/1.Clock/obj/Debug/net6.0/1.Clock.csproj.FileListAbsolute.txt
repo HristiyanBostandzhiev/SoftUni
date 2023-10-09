@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\bin\Debug\net6.0\1.Clock.exe
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\bin\Debug\net6.0\1.Clock.deps.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\bin\Debug\net6.0\1.Clock.runtimeconfig.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\bin\Debug\net6.0\1.Clock.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\bin\Debug\net6.0\1.Clock.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\obj\Debug\net6.0\1.Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\obj\Debug\net6.0\1.Clock.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\obj\Debug\net6.0\1.Clock.AssemblyInfo.cs
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\obj\Debug\net6.0\1.Clock.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\obj\Debug\net6.0\1.Clock.sourcelink.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\obj\Debug\net6.0\1.Clock.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\obj\Debug\net6.0\refint\1.Clock.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\obj\Debug\net6.0\1.Clock.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\obj\Debug\net6.0\1.Clock.genruntimeconfig.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\Nested Loops - C# Programing Basics\1.Clock\obj\Debug\net6.0\ref\1.Clock.dll

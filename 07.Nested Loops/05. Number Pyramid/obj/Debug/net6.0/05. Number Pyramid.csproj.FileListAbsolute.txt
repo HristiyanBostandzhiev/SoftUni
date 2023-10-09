@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\bin\Debug\net6.0\05. Number Pyramid.exe
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\bin\Debug\net6.0\05. Number Pyramid.deps.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\bin\Debug\net6.0\05. Number Pyramid.runtimeconfig.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\bin\Debug\net6.0\05. Number Pyramid.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\bin\Debug\net6.0\05. Number Pyramid.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.AssemblyInfo.cs
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.sourcelink.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\obj\Debug\net6.0\refint\05. Number Pyramid.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.genruntimeconfig.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\05. Number Pyramid\obj\Debug\net6.0\ref\05. Number Pyramid.dll

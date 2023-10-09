@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\bin\Debug\net6.0\03. Triangle of Stars.exe
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\bin\Debug\net6.0\03. Triangle of Stars.deps.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\bin\Debug\net6.0\03. Triangle of Stars.runtimeconfig.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\bin\Debug\net6.0\03. Triangle of Stars.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\bin\Debug\net6.0\03. Triangle of Stars.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.AssemblyInfo.cs
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.sourcelink.json
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\obj\Debug\net6.0\refint\03. Triangle of Stars.dll
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.pdb
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\obj\Debug\net6.0\03. Triangle of Stars.genruntimeconfig.cache
+C:\Users\pc\Desktop\SoftUni-Homeworks\07.Nested Loops\03. Triangle of Stars\obj\Debug\net6.0\ref\03. Triangle of Stars.dll
