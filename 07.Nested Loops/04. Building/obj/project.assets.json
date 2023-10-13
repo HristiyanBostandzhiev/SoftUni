@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\04. Building\\04. Building.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\04. Building\\04. Building.csproj",
       "projectName": "04. Building",
-      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\04. Building\\04. Building.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\04. Building\\04. Building.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\04. Building\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\04. Building\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

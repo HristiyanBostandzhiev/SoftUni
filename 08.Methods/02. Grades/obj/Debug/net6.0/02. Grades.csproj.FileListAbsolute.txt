@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Methods\02. Grades\bin\Debug\net6.0\02. Grades.exe
+C:\Users\pc\Desktop\Methods\02. Grades\bin\Debug\net6.0\02. Grades.deps.json
+C:\Users\pc\Desktop\Methods\02. Grades\bin\Debug\net6.0\02. Grades.runtimeconfig.json
+C:\Users\pc\Desktop\Methods\02. Grades\bin\Debug\net6.0\02. Grades.dll
+C:\Users\pc\Desktop\Methods\02. Grades\bin\Debug\net6.0\02. Grades.pdb
+C:\Users\pc\Desktop\Methods\02. Grades\obj\Debug\net6.0\02. Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Methods\02. Grades\obj\Debug\net6.0\02. Grades.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Methods\02. Grades\obj\Debug\net6.0\02. Grades.AssemblyInfo.cs
+C:\Users\pc\Desktop\Methods\02. Grades\obj\Debug\net6.0\02. Grades.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Methods\02. Grades\obj\Debug\net6.0\02. Grades.sourcelink.json
+C:\Users\pc\Desktop\Methods\02. Grades\obj\Debug\net6.0\02. Grades.dll
+C:\Users\pc\Desktop\Methods\02. Grades\obj\Debug\net6.0\refint\02. Grades.dll
+C:\Users\pc\Desktop\Methods\02. Grades\obj\Debug\net6.0\02. Grades.pdb
+C:\Users\pc\Desktop\Methods\02. Grades\obj\Debug\net6.0\02. Grades.genruntimeconfig.cache
+C:\Users\pc\Desktop\Methods\02. Grades\obj\Debug\net6.0\ref\02. Grades.dll

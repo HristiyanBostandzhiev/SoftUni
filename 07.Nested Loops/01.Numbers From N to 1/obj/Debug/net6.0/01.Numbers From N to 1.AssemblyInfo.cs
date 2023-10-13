@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01.Numbers From N to 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15ad1ceb949b20fcfee57902c681a738722bf829")]
 [assembly: System.Reflection.AssemblyProductAttribute("01.Numbers From N to 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01.Numbers From N to 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

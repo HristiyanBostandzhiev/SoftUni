@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\05. Number Pyramid\\05. Number Pyramid.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\05. Number Pyramid\\05. Number Pyramid.csproj",
       "projectName": "05. Number Pyramid",
-      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\05. Number Pyramid\\05. Number Pyramid.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\05. Number Pyramid\\05. Number Pyramid.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\05. Number Pyramid\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\05. Number Pyramid\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

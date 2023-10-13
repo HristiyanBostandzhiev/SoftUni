@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("08. Prime Numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a87a31fb230563666e0b90327fa3619bf30aaaf4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15ad1ceb949b20fcfee57902c681a738722bf829")]
 [assembly: System.Reflection.AssemblyProductAttribute("08. Prime Numbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("08. Prime Numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

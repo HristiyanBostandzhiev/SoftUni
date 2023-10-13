@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\06. Travel Savings\\06. Travel Savings.csproj": {}
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\06. Travel Savings\\06. Travel Savings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\06. Travel Savings\\06. Travel Savings.csproj": {
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\06. Travel Savings\\06. Travel Savings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\06. Travel Savings\\06. Travel Savings.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\06. Travel Savings\\06. Travel Savings.csproj",
         "projectName": "06. Travel Savings",
-        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\06. Travel Savings\\06. Travel Savings.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\06. Travel Savings\\06. Travel Savings.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\06. Travel Savings\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\06. Travel Savings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

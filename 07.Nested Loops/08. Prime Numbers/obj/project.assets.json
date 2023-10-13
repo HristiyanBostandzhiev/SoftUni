@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\08. Prime Numbers\\08. Prime Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\08. Prime Numbers\\08. Prime Numbers.csproj",
       "projectName": "08. Prime Numbers",
-      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\08. Prime Numbers\\08. Prime Numbers.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\08. Prime Numbers\\08. Prime Numbers.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Homeworks\\07.Nested Loops\\08. Prime Numbers\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\07.Nested Loops\\08. Prime Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
