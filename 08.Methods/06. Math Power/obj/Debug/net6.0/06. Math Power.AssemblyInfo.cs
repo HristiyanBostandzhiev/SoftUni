@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06. Math Power")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae96c82d8cadbe2793b045a6652551e2a005cc1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("06. Math Power")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06. Math Power")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

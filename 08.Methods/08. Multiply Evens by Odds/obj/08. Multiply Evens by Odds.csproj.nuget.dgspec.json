@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\Methods\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj": {}
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\Methods\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj": {
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Methods\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj",
         "projectName": "08. Multiply Evens by Odds",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Methods\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Methods\\08. Multiply Evens by Odds\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\08. Multiply Evens by Odds\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

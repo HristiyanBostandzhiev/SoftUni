@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Methods\\04. Calculate Rectangle Area\\04. Calculate Rectangle Area.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\04. Calculate Rectangle Area\\04. Calculate Rectangle Area.csproj",
       "projectName": "04. Calculate Rectangle Area",
-      "projectPath": "C:\\Users\\pc\\Desktop\\Methods\\04. Calculate Rectangle Area\\04. Calculate Rectangle Area.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\04. Calculate Rectangle Area\\04. Calculate Rectangle Area.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\Methods\\04. Calculate Rectangle Area\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\04. Calculate Rectangle Area\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

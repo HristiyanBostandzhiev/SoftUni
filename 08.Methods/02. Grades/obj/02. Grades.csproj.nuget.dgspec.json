@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\Methods\\02. Grades\\02. Grades.csproj": {}
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\02. Grades\\02. Grades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\Methods\\02. Grades\\02. Grades.csproj": {
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\02. Grades\\02. Grades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Methods\\02. Grades\\02. Grades.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\02. Grades\\02. Grades.csproj",
         "projectName": "02. Grades",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Methods\\02. Grades\\02. Grades.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\02. Grades\\02. Grades.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Methods\\02. Grades\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\02. Grades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

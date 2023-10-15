@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\Methods\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj": {}
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\Methods\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj": {
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Methods\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj",
         "projectName": "01. Sign of Integer Numbers",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Methods\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Methods\\01. Sign of Integer Numbers\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\01. Sign of Integer Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

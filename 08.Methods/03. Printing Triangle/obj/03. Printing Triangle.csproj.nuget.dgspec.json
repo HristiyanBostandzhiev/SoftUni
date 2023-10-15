@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\Methods\\03. Printing Triangle\\03. Printing Triangle.csproj": {}
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\03. Printing Triangle\\03. Printing Triangle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\Methods\\03. Printing Triangle\\03. Printing Triangle.csproj": {
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\03. Printing Triangle\\03. Printing Triangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Methods\\03. Printing Triangle\\03. Printing Triangle.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\03. Printing Triangle\\03. Printing Triangle.csproj",
         "projectName": "03. Printing Triangle",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Methods\\03. Printing Triangle\\03. Printing Triangle.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\03. Printing Triangle\\03. Printing Triangle.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Methods\\03. Printing Triangle\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\03. Printing Triangle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

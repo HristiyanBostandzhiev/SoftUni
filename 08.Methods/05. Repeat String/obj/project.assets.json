@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Methods\\05. Repeat String\\05. Repeat String.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\05. Repeat String\\05. Repeat String.csproj",
       "projectName": "05. Repeat String",
-      "projectPath": "C:\\Users\\pc\\Desktop\\Methods\\05. Repeat String\\05. Repeat String.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\05. Repeat String\\05. Repeat String.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\Methods\\05. Repeat String\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\05. Repeat String\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Methods\\07. Greater of Two Values\\07. Greater of Two Values.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\07. Greater of Two Values\\07. Greater of Two Values.csproj",
       "projectName": "07. Greater of Two Values",
-      "projectPath": "C:\\Users\\pc\\Desktop\\Methods\\07. Greater of Two Values\\07. Greater of Two Values.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\07. Greater of Two Values\\07. Greater of Two Values.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\Methods\\07. Greater of Two Values\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\08.Methods\\07. Greater of Two Values\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
