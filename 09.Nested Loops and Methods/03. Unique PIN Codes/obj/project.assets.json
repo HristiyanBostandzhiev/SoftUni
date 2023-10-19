@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\Nested Loops and Methods\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\09.Nested Loops and Methods\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj",
       "projectName": "03. Unique PIN Codes",
-      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\Nested Loops and Methods\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\09.Nested Loops and Methods\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\Nested Loops and Methods\\03. Unique PIN Codes\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\09.Nested Loops and Methods\\03. Unique PIN Codes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -29,8 +29,12 @@ static bool CheckFoTwoDigitisAtLeast(string input)
         {
             digits += 1;
         }
+        if (digits >= 2)
+        {
+            return true;
+        }
     }
-    return digits >= 2;
+    return false;
 }
 
 string password = Console.ReadLine();

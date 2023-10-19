@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\Nested Loops and Methods\\06. Vowels Count\\06. Vowels Count.csproj": {}
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\09.Nested Loops and Methods\\06. Vowels Count\\06. Vowels Count.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\Nested Loops and Methods\\06. Vowels Count\\06. Vowels Count.csproj": {
+    "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\09.Nested Loops and Methods\\06. Vowels Count\\06. Vowels Count.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\Nested Loops and Methods\\06. Vowels Count\\06. Vowels Count.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\09.Nested Loops and Methods\\06. Vowels Count\\06. Vowels Count.csproj",
         "projectName": "06. Vowels Count",
-        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\Nested Loops and Methods\\06. Vowels Count\\06. Vowels Count.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\09.Nested Loops and Methods\\06. Vowels Count\\06. Vowels Count.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\Nested Loops and Methods\\06. Vowels Count\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\SoftUni-Programing-For-QA\\09.Nested Loops and Methods\\06. Vowels Count\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     }
