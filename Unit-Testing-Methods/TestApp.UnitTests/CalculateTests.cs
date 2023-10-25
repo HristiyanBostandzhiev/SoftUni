@@ -20,6 +20,8 @@ public class CalculateTests
     [Test]
     public void Test_Subtraction()
     {
-        // TODO: Write your test here...
+        Calculate calc = new();
+        int actual = calc.Subtraction(5, 2);
+        Assert.AreEqual(3, actual);
     }
 }

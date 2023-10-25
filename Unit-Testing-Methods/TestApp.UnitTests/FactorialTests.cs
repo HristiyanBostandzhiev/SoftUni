@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using System;
 
 namespace TestApp.UnitTests;
 
@@ -7,18 +8,23 @@ public class FactorialTests
     [Test]
     public void Test_CalculateFactorial_InputZero_ReturnsOne()
     {
-        // TODO: Write your test here...
+        int input = 0;
+        int actual = Factorial.CalculateFactorial(input);
+        Assert.AreEqual(1, actual);
     }
 
     [Test]
     public void Test_CalculateFactorial_InputPositiveNumber_ReturnsCorrectFactorial()
     {
-        // TODO: Write your test here...
+        int input = 6;
+        int actual = Factorial.CalculateFactorial(input);
+        Assert.AreEqual(720, actual);
     }
 
     [Test]
     public void Test_CalculateFactorial_InputNegativeNumber_ThrowsException()
     {
-        // TODO: Write your test here...
+        int input = -85;
+        Assert.Throws<ArgumentOutOfRangeException>(() => Factorial.CalculateFactorial(input));
     }
 }
