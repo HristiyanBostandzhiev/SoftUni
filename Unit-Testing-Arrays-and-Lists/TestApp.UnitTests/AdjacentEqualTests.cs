@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-
+using System;
 using System.Collections.Generic;
 
 namespace TestApp.UnitTests;
@@ -11,12 +11,12 @@ public class AdjacentEqualTests
     public void Test_Sum_InputIsNull_ShouldThrowArgumentException()
     {
         // Arrange
-        List<int>? nullList = null;
+        List<int> nullList = null;
 
         // Act & Assert
+        Assert.Throws<ArgumentException>(() => AdjacentEqual.Sum(nullList));
     }
 
-    // TODO: finish test
     [Test]
     public void Test_Sum_InputIsEmptyList_ShouldReturnEmptyString()
     {
@@ -24,15 +24,17 @@ public class AdjacentEqualTests
         List<int> emptyList = new();
 
         // Act
+        var actual = AdjacentEqual.Sum(emptyList);
 
         // Assert
+        Assert.That(actual, Is.Empty);
     }
 
-    // TODO: finish test
     [Test]
     public void Test_Sum_NoAdjacentEqualNumbers_ShouldReturnOriginalList()
     {
         // Arrange
+
 
         // Act
 

@@ -6,7 +6,6 @@ namespace TestApp.UnitTests;
 
 public class AverageTests
 {
-    // TODO: finish the test
     [Test]
     public void Test_CalculateAverage_InputIsEmptyArray_ShouldThrowArgumentException()
     {
@@ -14,10 +13,10 @@ public class AverageTests
         int[] emptyArray = Array.Empty<int>();
 
         // Act & Assert
+        Assert.Throws<ArgumentException>(() => Average.CalculateAverage(emptyArray));
        
     }
 
-    // TODO: finish the test
     [Test]
     public void Test_CalculateAverage_InputHasOneElement_ShouldReturnSameElement()
     {
@@ -25,27 +24,33 @@ public class AverageTests
         int[] array = { 42 };
 
         // Act
-        double result;
+        double result = Average.CalculateAverage(array);
 
         // Assert
-        //Assert.That(result, Is.EqualTo(42));
+        Assert.That(result, Is.EqualTo(42));
     }
 
     [Test]
     public void Test_CalculateAverage_InputHasPositiveIntegers_ShouldReturnCorrectAverage()
     {
-        // TODO: finish the test
+        int[] arr = { 1, 2, 3, 4 };
+        double result = Average.CalculateAverage(arr);
+        Assert.That(result, Is.EqualTo(2.5));
     }
 
     [Test]
     public void Test_CalculateAverage_InputHasNegativeIntegers_ShouldReturnCorrectAverage()
     {
-        // TODO: finish the test
+        int[] arr = { -5, -10};
+        double result = Average.CalculateAverage(arr);
+        Assert.That(result, Is.EqualTo(-7.5));
     }
 
     [Test]
     public void Test_CalculateAverage_InputHasMixedIntegers_ShouldReturnCorrectAverage()
     {
-        // TODO: finish the test
+        int[] arr = { 1, -2, 3, 4, -1 };
+        double result = Average.CalculateAverage(arr);
+        Assert.That(result, Is.EqualTo(1));
     }
 }
