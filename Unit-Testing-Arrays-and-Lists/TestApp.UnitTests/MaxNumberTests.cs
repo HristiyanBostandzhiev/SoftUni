@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-
+using System;
 using System.Collections.Generic;
 
 namespace TestApp.UnitTests;
@@ -13,6 +13,7 @@ public class MaxNumberTests
         List<int>? nullList = null;
 
         // Act & Assert
+        Assert.Throws<ArgumentException>(() => MaxNumber.FindMax(nullList));
     }
 
     [Test]
@@ -22,35 +23,47 @@ public class MaxNumberTests
         List<int> emptyList = new();
 
         // Act & Assert
+        Assert.Throws<ArgumentException>(() => MaxNumber.FindMax(emptyList));
     }
 
     [Test]
     public void Test_FindMax_InputHasOneElement_ShouldReturnTheElement()
     {
-        // TODO: finish test
+        List<int> oneElement = new List<int>() { 69 };
+        int result = MaxNumber.FindMax(oneElement);
+        Assert.That(result, Is.EqualTo(69));
+
     }
 
     [Test]
     public void Test_FindMax_InputHasPositiveIntegers_ShouldReturnMaximum()
     {
-        // TODO: finish test
+        List<int> postiveInt = new List<int>() { 69, 79, 169, 869 };
+        int result = MaxNumber.FindMax(postiveInt);
+        Assert.That(result, Is.EqualTo(869));
     }
 
     [Test]
     public void Test_FindMax_InputHasNegativeIntegers_ShouldReturnMaximum()
     {
-        // TODO: finish test
+        List<int> negativeInt = new List<int>() { -69, -79, -169, 869 };
+        int result = MaxNumber.FindMax(negativeInt);
+        Assert.That(result, Is.EqualTo(869));
     }
 
     [Test]
     public void Test_FindMax_InputHasMixedIntegers_ShouldReturnMaximum()
     {
-        // TODO: finish test
+        List<int> mixedInt = new List<int>() { -69, 69};
+        int result = MaxNumber.FindMax(mixedInt);
+        Assert.That(result, Is.EqualTo(69));
     }
 
     [Test]
     public void Test_FindMax_InputHasDuplicateMaxValue_ShouldReturnMaximum()
     {
-        // TODO: finish test
+        List<int> duplicateInt = new List<int>() { 69, 69, 69, 1, 2, 2, 68, -9, -213, int.MinValue };
+        int result = MaxNumber.FindMax(duplicateInt);
+        Assert.That(result, Is.EqualTo(69));
     }
 }

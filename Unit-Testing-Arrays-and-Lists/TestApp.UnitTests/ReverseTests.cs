@@ -19,22 +19,24 @@ public class ReverseTests
         Assert.That(result, Is.EqualTo(string.Empty));
     }
 
-    // TODO: finish the test
     [Test]
     public void Test_ReverseArray_InputHasOneElement_ShouldReturnTheSameElement()
     {
         // Arrange
+        int[] arr = { 100 }; 
 
         // Act
-        string result;
+        string result = Reverse.ReverseArray(arr);
 
         // Assert
-        //Assert.That(result, Is.EqualTo("42"));
+        Assert.That(result, Is.EqualTo("100"));
     }
 
     [Test]
     public void Test_ReverseArray_InputHasMultipleElements_ShouldReturnReversedString()
     {
-        // TODO: finish the test
+        int[] arr = { 100, 99, 1 };
+        string result = Reverse.ReverseArray(arr);
+        Assert.That (result, Is.EqualTo("1 99 100"));
     }
 }
