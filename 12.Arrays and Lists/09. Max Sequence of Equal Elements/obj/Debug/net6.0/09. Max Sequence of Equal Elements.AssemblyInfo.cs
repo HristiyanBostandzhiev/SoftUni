@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09. Max Sequence of Equal Elements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c24afe6425c24a8dd776ca78e3aef1bef17e3dcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("09. Max Sequence of Equal Elements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09. Max Sequence of Equal Elements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

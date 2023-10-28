@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\bin\Debug\net6.0\10. Top Integers.exe
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\bin\Debug\net6.0\10. Top Integers.deps.json
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\bin\Debug\net6.0\10. Top Integers.runtimeconfig.json
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\bin\Debug\net6.0\10. Top Integers.dll
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\bin\Debug\net6.0\10. Top Integers.pdb
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\obj\Debug\net6.0\10. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\obj\Debug\net6.0\10. Top Integers.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\obj\Debug\net6.0\10. Top Integers.AssemblyInfo.cs
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\obj\Debug\net6.0\10. Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\obj\Debug\net6.0\10. Top Integers.sourcelink.json
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\obj\Debug\net6.0\10. Top Integers.dll
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\obj\Debug\net6.0\refint\10. Top Integers.dll
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\obj\Debug\net6.0\10. Top Integers.pdb
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\obj\Debug\net6.0\10. Top Integers.genruntimeconfig.cache
+C:\Users\pc\Desktop\SoftUni-Programing-For-QA\12.Arrays and Lists\10. Top Integers\obj\Debug\net6.0\ref\10. Top Integers.dll
