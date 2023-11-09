@@ -3,3 +3,6 @@ const regex = /#(\d+)|KP(\d+)|Y(\d+)|PARKET(\d+)|RAVDA(\d+)|TRADE(\d+)|SPA(\d+)|
 
 SUIC(\d+)
 GEOS(\d+)
+
+
+^(?!POD|OD|VTO).*?(?=\s|/s|$)
