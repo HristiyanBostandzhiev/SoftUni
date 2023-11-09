@@ -5,4 +5,4 @@ SUIC(\d+)
 GEOS(\d+)
 
 
-^(?!POD|OD|VTO).*?(?=\s|/s|$)
+const regex = /^(?!POD|OD|VTO).*?(?=\s|\/s|$)/g;
