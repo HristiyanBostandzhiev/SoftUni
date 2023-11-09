@@ -1,1 +1,5 @@
 const regex = /#(\d+)|KP(\d+)|Y(\d+)|PARKET(\d+)|RAVDA(\d+)|TRADE(\d+)|SPA(\d+)|SIDO(\d+)/g;
+
+
+SUIC(\d+)
+GEOS(\d+)
